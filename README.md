@@ -129,4 +129,4 @@ Contributions are welcome! Please fork the repository and submit pull requests t
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-You can copy this content into your `README.md` file and push it to your GitHub repository.
+For more details don't hesitate to get in touch at asad.aftab@tuwien.ac.at
