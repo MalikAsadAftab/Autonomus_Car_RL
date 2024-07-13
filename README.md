@@ -1,6 +1,3 @@
-Here's the updated README file including the integration of Deep Q-learning:
-
-```markdown
 # Autonomous Driving RL Policy
 
 This repository contains the backend code for an Autonomous Driving RL Policy project, which uses reinforcement learning techniques to simulate and optimize driving strategies for autonomous vehicles.
@@ -129,4 +126,13 @@ Contributions are welcome! Please fork the repository and submit pull requests t
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-For more details don't hesitate to get in touch at asad.aftab@tuwien.ac.at
+---
+
+Feel free to reach out if you have any questions or need further assistance.
+
+Happy Coding!
+
+For further queries or help, don't hesitate to get in touch either via email: [asad.aftab@tuwien.ac.at](mailto:asad.aftab@tuwien.ac.at) or through [LinkedIn: Asad Aftab](https://www.linkedin.com/in/asad-aftab-malak/).
+
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:asad.aftab@tuwien.ac.at)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/asad-aftab-malak/)
